@@ -7,8 +7,9 @@ A stylish and dynamic personal portfolio website built using HTML, CSS, and Java
 🎉 Animated transitions and smooth scrolling for an engaging user experience.
 🌈 Visually appealing color palette and typography to reflect your personal style.
 🚀 Usage
+Screenshot:
+![portfolio](https://github.com/rohitjagadale123/Portfolio-website/assets/126160382/ad626430-3b6c-4a6d-a783-455ab10d2f9c)
 Clone the repository:
-
 git clone https://github.com/yourusername/portfolio.git
 cd portfolio
 Open index.html in your web browser to view your portfolio website.
